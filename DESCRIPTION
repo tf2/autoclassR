@@ -1,0 +1,10 @@
+Package: autoclassR
+Type: Package
+Title: Automatic Classification for R 
+Version: 1.0
+Date: 2012-01-09
+Author: Tomas William Fitzgerald
+Maintainer: <tf2@sanger.ac.uk>
+Depends:
+Description: Unsupervised Bayesian Classification Models (autoclass)
+License: Artistic

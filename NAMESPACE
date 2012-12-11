@@ -1,0 +1,16 @@
+export(
+clean,
+overlay.elipse,
+acwritedatafile,
+acwriteheaderfile,
+acwritemodelfile,
+acwritesparamsfile,
+acgetsearchresults,
+acgetsigmaresults,
+example_autoclass,
+acsearch,
+acsigmacontours,
+acwriterparamsfile,
+autoclassR
+)
+exportClasses("autoclassR")
